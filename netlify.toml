@@ -1,6 +1,6 @@
 [[redirects]]
 from = "/*"
-to ="index1.html"
+to ="index.html"
 status = 200
 
 
